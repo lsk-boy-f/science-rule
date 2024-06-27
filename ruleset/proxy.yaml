@@ -1,0 +1,16 @@
+payload:
+  - '+.xda-developers.com'
+  - '+.speedtest.net'
+  - '+.videocelebs.net'
+  - '+.inoreader.com'
+  - '+.ted.com'
+  - '+.rsshub.app'
+  - '+.sobooks.net'
+  # Game
+  - '+.warframe.market'
+  - '+.nintendo.net'
+  - '+.nintendo.com'
+  - '+.warframe.com'
+  # google play
+  - '+.gstatic.com'
+  - '+.services.googleapis.cn'

@@ -2,7 +2,7 @@
 
 **jsdeliver**
 ```
-https://cdn.jsdelivr.net/gh/x13945/science_rule/ruleset/direct.yaml
+https://cdn.jsdelivr.net/gh/x13945/science-rule/ruleset/direct.yaml
 https://cdn.jsdelivr.net/gh/x13945/science-rule/ruleset/llm.yaml
 https://cdn.jsdelivr.net/gh/x13945/science-rule/ruleset/proxy.yaml
 

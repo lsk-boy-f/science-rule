@@ -14,3 +14,5 @@ payload:
   # google play
   - '+.gstatic.com'
   - '+.services.googleapis.cn'
+  # video
+  - '+.dygod.net'

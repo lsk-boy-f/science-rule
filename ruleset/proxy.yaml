@@ -22,3 +22,5 @@ payload:
   - '+.torrentkitty.tv'
   # dev
   - '+.docker.com'
+  - '+.docker.io'
+

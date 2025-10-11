@@ -1,16 +1,18 @@
 payload:
   # chatgpt
-  - '+.openai.com'
-  - '+.chatgpt.com'
-  - '+.ai.com'
-  - '+.auth0.com'
-  - 'chat.openai.com.cdn.cloudflare.net'
-  - 'openaiapi-site.azureedge.net'
-  - '+.intercomcdn.com'
-  - '+.intercom.io'
-  - '+.oaistatic.com'
-  - '+.oaiusercontent.com'
+  - DOMAIN-SUFFIX,'+.openai.com'
+  - DOMAIN-SUFFIX,'+.chatgpt.com'
+  - DOMAIN-SUFFIX,'+.ai.com'
+  - DOMAIN-SUFFIX,'+.auth0.com'
+  - DOMAIN-SUFFIX,'chat.openai.com.cdn.cloudflare.net'
+  - DOMAIN-SUFFIX,'openaiapi-site.azureedge.net'
+  - DOMAIN-SUFFIX,'+.intercomcdn.com'
+  - DOMAIN-SUFFIX,'+.intercom.io'
+  - DOMAIN-SUFFIX,'+.oaistatic.com'
+  - DOMAIN-SUFFIX,'+.oaiusercontent.com'
   # claude
-  - 'cdn.usefathom.com'
-  - '+.anthropic.com'
-  - '+.claude.ai'
+  - DOMAIN-SUFFIX,'cdn.usefathom.com'
+  - DOMAIN-SUFFIX,'+.anthropic.com'
+  - DOMAIN-SUFFIX,'+.claude.ai'
+  - PROCESS-NAME,ChatGPT
+  - PROCESS-NAME,ChatGPTHelper

@@ -22,7 +22,7 @@ rule-providers:
     interval: 86400
   shaw-llm:
     type: http
-    behavior: domain
+    behavior: classical
     url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@master/ruleset/llm.yaml"
     path: ./ruleset/shaw-llm.yaml
     interval: 86400

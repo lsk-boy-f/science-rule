@@ -6,27 +6,29 @@
 - proxy domain
 ## 使用
 
+最新
 ```yaml
 rule-providers:
   shaw-direct:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@master/ruleset/direct.yaml"
+    url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@v1.0.1/ruleset/direct.yaml"
     path: ./ruleset/shaw-direct.yaml
     interval: 86400
   shaw-proxy:
     type: http
     behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@master/ruleset/proxy.yaml"
+    url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@v1.0.1/ruleset/proxy.yaml"
     path: ./ruleset/shaw-proxy.yaml
     interval: 86400
   shaw-llm:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@master/ruleset/llm.yaml"
+    url: "https://cdn.jsdelivr.net/gh/x13945/science-rule@v1.0.1/ruleset/llm.yaml"
     path: ./ruleset/shaw-llm.yaml
     interval: 86400
 ```
+
 **jsdeliver**
 ```
 https://cdn.jsdelivr.net/gh/x13945/science-rule/ruleset/direct.yaml

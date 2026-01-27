@@ -16,3 +16,7 @@ payload:
   - DOMAIN-SUFFIX,'+.claude.ai'
   - PROCESS-NAME,ChatGPT
   - PROCESS-NAME,ChatGPTHelper
+  # clawd.bot
+  - DOMAIN-SUFFIX,'+.clawd.bot'
+  - DOMAIN-SUFFIX,'+.molt.bot'
+  

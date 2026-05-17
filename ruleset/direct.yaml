@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,'+.huihuitech.uk'
+  - DOMAIN-SUFFIX,'+.cntech.uk'
   - DOMAIN-SUFFIX,'+.lstec.top'
   - DOMAIN-SUFFIX,'+.csjplatform.com'
   - IP-CIDR,101.43.169.31/22

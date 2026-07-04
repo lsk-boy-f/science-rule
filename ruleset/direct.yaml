@@ -10,9 +10,3 @@ payload:
   - IP-CIDR,74.48.125.39/32
   - IP-CIDR,35.209.233.201/32
   - IP-CIDR,47.242.163.104/32
-  - DOMAIN-SUFFIX,'xn--ngstr-lra8j.com'
-  - DOMAIN-SUFFIX,'googleapis.cn'
-  - DOMAIN,'clientservices.googleapis.com'
-  - DOMAIN,'update.googleapis.com'
-  - DOMAIN,'translate.googleapis.com'
-  - DOMAIN,'fonts.googleapis.com'

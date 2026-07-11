@@ -12,9 +12,6 @@ payload:
   - '+.nintendo.net'
   - '+.nintendo.com'
   - '+.warframe.com'
-  # google play
-  - '+.gstatic.com'
-  - '+.services.googleapis.cn'
   # video
   - '+.dygod.net'
   - '+.torrentkitty.cam'
